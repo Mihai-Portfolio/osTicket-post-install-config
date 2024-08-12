@@ -30,26 +30,33 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Configuration Steps</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/user-attachments/assets/5b1c1e43-0633-4fa1-acb8-9156d58f0226)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Use the following link to take you to the osTicket log in screen (http://localhost/osTicket/scp/login.php) and log in with the username and password you created. Once logged in, we are going to configure roles, departments, teams, agents, SLAs and Help Topics. 
+
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![image](https://github.com/user-attachments/assets/5fab6cf7-59a5-425d-b759-28c20ed529f0)
+![image](https://github.com/user-attachments/assets/e939e9cf-c8f6-410d-842c-eac0ca17ccea)
+![image](https://github.com/user-attachments/assets/9051e13f-3d50-46c0-a818-0f223b34c653)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+First, we are going to configure roles. To do this, click Admin Panel in the top right corner, click agents, roles, and Add New Role. We are going to name the new role Supreme Administrators. Be sure to click Permissions and allow it all available permissions under Tickets, Tasks and Knowledgebase. Once added, you will be able to see your newly added Supreme Administrators role.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![image](https://github.com/user-attachments/assets/b45fce72-cb95-4147-9173-48af704ea61b)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Next, we will configure a new department. On the Agents tab in the Admin Panel, click departments and Add New Department. 
 </p>
 <br />
