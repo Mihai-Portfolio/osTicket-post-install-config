@@ -64,12 +64,12 @@ Next, we will configure a new department. On the Agents tab in the Admin Panel, 
 
 ![image](https://github.com/user-attachments/assets/51ac2a90-de9f-47e5-b5bd-acb9dcd00d50)
 ![image](https://github.com/user-attachments/assets/a9dbee7c-a3fb-4645-a6d9-c73e43afcd49)
-![image](https://github.com/user-attachments/assets/06be2843-f039-4102-8352-3db6590cfc35)
+![image](https://github.com/user-attachments/assets/99c8f0ec-0e2d-48b9-838f-d6ab639a9510)
 ![image](https://github.com/user-attachments/assets/acef2aba-5173-4d37-b9d6-f25466fcdb6d)
 ![image](https://github.com/user-attachments/assets/c2916268-296d-44f1-9f29-ef973cfe30c1)
 
 
-Next, we will be adding in two agents, Jane and John Doe. On the Agents tab in the Admin Panel, click Add New Agent. Start by adding in Jane Doe, with a username of Jane-Doe and a password. Under Access, set Jane's department to System Administrators and her role to Supreme Administrators. Allow her permission to create, delete, edit, manage account and user directory. No need to assign her to a team yet. Next, we will create John Doe. We will create John's account just like Jane's, only we're going to change his department to Support and his role to Expanded Access. Allow him every permission and no need to assign him to a team yet either. 
+Next, we will be adding in two agents, Jane and John Doe. On the Agents tab in the Admin Panel, click Add New Agent. Start by adding in Jane Doe, with a username of Jane-Doe and a password. Under Access, set Jane's department to System Administrators, make her role Supreme Administrators, and add support under extended access. Allow her permission to create, delete, edit, manage account and user directory. No need to assign her to a team yet. Next, we will create John Doe. We will create John's account just like Jane's, only we're going to change his department to Support and his role to Expanded Access. Allow him every permission and no need to assign him to a team yet either. 
 
 ![image](https://github.com/user-attachments/assets/9fdef37a-60f2-4eac-8d26-a7bf8660b621)
 ![image](https://github.com/user-attachments/assets/273cccaf-40fe-40f0-9229-7fb09d8df270)
