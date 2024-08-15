@@ -34,7 +34,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 </p>
 <p>
-Use the following link to take you to the osTicket log in screen (http://localhost/osTicket/scp/login.php) and log in with the username and password you created. Once logged in, we are going to configure roles, departments, teams, agents, SLAs and Help Topics. 
+Use the following link to take you to the osTicket log in screen - http://localhost/osTicket/scp/login.php - and log in with the username and password you created. Once logged in, we are going to configure roles, departments, teams, agents, SLAs and Help Topics. 
 
 </p>
 <br />
@@ -69,7 +69,7 @@ Next, we will configure a new department. On the Agents tab in the Admin Panel, 
 ![image](https://github.com/user-attachments/assets/c2916268-296d-44f1-9f29-ef973cfe30c1)
 
 
-Next, we will be adding in two agents, Jane and John Doe. On the Agents tab in the Admin Panel, click Add New Agent. Start by adding in Jane Doe, with a username of Jane-Doe and a password. Under Access, set Jane's department to System Administrators, make her role Supreme Administrators, and add support under extended access. Allow her permission to create, delete, edit, manage account and user directory. No need to assign her to a team yet. Next, we will create John Doe. We will create John's account just like Jane's, only we're going to change his department to Support and his role to Expanded Access. Allow him every permission and no need to assign him to a team yet either. 
+Next, we will be adding in two agents, Jane and John Doe. On the Agents tab in the Admin Panel, click Add New Agent. Start by adding in Jane Doe, with a username of Jane-Doe and a password. Under Access, set Jane's department to System Administrators, make her role Supreme Administrators, and add support under extended access. Allow her permission to create, delete, edit, manage account and user directory. No need to assign her to a team yet. Next, we will create John Doe. We will create John's account just like Jane's, only we're going to change his department to Support and his role to Expanded Access. 
 
 ![image](https://github.com/user-attachments/assets/9fdef37a-60f2-4eac-8d26-a7bf8660b621)
 ![image](https://github.com/user-attachments/assets/273cccaf-40fe-40f0-9229-7fb09d8df270)
